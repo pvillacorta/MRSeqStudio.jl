@@ -1,4 +1,4 @@
-# MRSeqStudio.jl
+# MRSeqStudio.jl :)
 
 Editable MRI sequences for KomaMRI. A `StudioSequence` stores variables and a tree of loop and event blocks. `Sequence(studio)` unrolls that tree into a KomaMRI `Sequence`.
 
